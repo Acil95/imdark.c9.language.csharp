@@ -3,8 +3,8 @@
 This cloud 9  plugin provides some basic autocomplete functionality for c#, the code is loosly based on [omnisharp-brackets](https://github.com/OmniSharp/omnisharp-brackets).
 
 ## Competability
-+It has only been tested on my windows 8.1 machine.
-+But should probobly also work on linux.
+* It has only been tested on my windows 8.1 machine.
+* But should probobly also work on linux.
 
 ## Installing:
 1. Create a ".c9" folder in your cloud 9 workspace if it does not exist already.
@@ -16,7 +16,7 @@ or:
 use the cloud 9 developer mode to see changes instanly
 
 ## What do we have:
-*Basic autocomplete for c# using the amazing [Omnisharp](http://www.omnisharp.net/).
+* Basic autocomplete for c# using the amazing [Omnisharp](http://www.omnisharp.net/).
 
 ## What is missing
 * Go to definition (should be simple enought).
