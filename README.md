@@ -16,15 +16,15 @@ or:
 use the cloud 9 developer mode to see changes instanly
 
 ## What do we have:
-+Basic autocomplete for c# using the amazing [Omnisharp](http://www.omnisharp.net/).
+*Basic autocomplete for c# using the amazing [Omnisharp](http://www.omnisharp.net/).
 
 ## What is missing
-+Go to definition (should be simple enought).
-+Rename refuctoring
-+solution generator commands using [generator-aspnet](https://github.com/OmniSharp/generator-aspnet)
-+Build definition using msbuild, or roslynd by configuration.
-+Debug, this can be done by wrapping the [Microsoft mdbg debugger in web sockets or web api](https://github.com/SymbolSource/Microsoft.Samples.Debugging)
+* Go to definition (should be simple enought).
+* Rename refuctoring
+* solution generator commands using [generator-aspnet](https://github.com/OmniSharp/generator-aspnet)
+* Build definition using msbuild, or roslynd by configuration.
+* Debug, this can be done by wrapping the [Microsoft mdbg debugger in web sockets or web api](https://github.com/SymbolSource/Microsoft.Samples.Debugging)
 
 ## Refuctoring Todo
-+move the calling to completer server to the completer using ajax like in the tern js completer by cloud 9.
-+one day to implement the completer in pure js, maybe start with asm js or somthing
+* move the calling to completer server to the completer using ajax like in the tern js completer by cloud 9.
+* one day to implement the completer in pure js, maybe start with asm js or somthing
